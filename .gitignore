@@ -1,0 +1,12 @@
+*.ptau
+*.r1cs
+*.sym
+*.zkey
+*.wtns
+
+proof.json
+public.json
+verification_key.json
+
+merkle_tree_cpp/
+merkle_tree_js/
